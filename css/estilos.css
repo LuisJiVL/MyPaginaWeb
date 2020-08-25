@@ -278,7 +278,12 @@ height: 60px;
     display: block;
     max-height: 260px;
 }
-
+/* Contactanos */
+.container-contactanos{
+    border: 5px solid #2fa0f7;
+    width: 100%;
+    height: 100%;
+}
 @media (max-width:990px){
     label.logo{
         color: white;
