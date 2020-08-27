@@ -193,6 +193,10 @@ footer{
     color: #c7c7c7;
     margin:5px 5px;
 }
+.columna2 a{
+    text-decoration: none;
+    color: #c7c7c7;
+}
 .columna3{
     max-width: 400px;
 }
@@ -202,6 +206,10 @@ footer{
 .columna3__Contactos{
     margin:20px 1px;
     display: flex;
+}
+.columna3 a{
+    text-decoration: none;
+    color: #c7c7c7;
 }
 #img-home{
 width: 60px;
