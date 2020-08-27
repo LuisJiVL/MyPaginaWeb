@@ -146,6 +146,22 @@ a.article__info-a{
 a.article__info-a:hover{
     color: black;
 }
+/* comprar */
+.precios{
+display: flex;
+}
+.comprar{
+color: red;
+}
+.article__buy{
+    background:#385674;
+    width: 100%;
+    min-height: 50px;
+    margin: 6px;
+    border: 3px solid #25405c;
+    padding:7px;
+    text-align: center;
+}
 /* footer */
 footer{
     background-color: #202020;
@@ -218,8 +234,15 @@ height: 60px;
 .columna3__Contactos img{
     width: 36px;
     height: 36px;
+    margin: 0px 5px;
 }
 .columna3__Contactos p{
+    font-style: 10px;
+    columns: #c7c7c7;;
+    margin:5px 5px;
+    max-width: 150px;
+}
+.columna3__Contactos a{
     font-style: 10px;
     columns: #c7c7c7;;
     margin:5px 5px;
